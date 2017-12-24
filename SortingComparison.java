@@ -1,6 +1,6 @@
 /**
- * @author Abdelali Azhari. 
- * Course: CS 526 Homework - 9 
+ * @author Ali Azhari. 
+ * Course: CS 526 
  * File:SortingComparison.java
  * Fall 2017
  *
