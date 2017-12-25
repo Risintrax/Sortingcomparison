@@ -1,5 +1,5 @@
 /**
- * @author Ali Azhari. 
+ * @author Ali Azhari and Wassim. 
  * Course: CS 526 
  * File:SortingComparison.java
  * Fall 2017
